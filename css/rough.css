@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+}.r{background-color: red;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+  
+    
+}
+.b{background-color: blue;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+   
+
+}
+.y{background-color: yellow;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    /*it can be avoided by using body{margin:0px}
+    top: 0px;
+    left:0px;*/
+   
+}
